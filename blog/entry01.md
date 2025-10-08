@@ -6,7 +6,7 @@ As the beginning to my learning process in becoming a engineer and defining worl
 ### Skills
 What I believe can help me as a first step would be my ability to **use of google and socializing**" 
 
-### Googeling
+### Googling
 The ability to access and use google is a feat by itself as it allows us nar endless posiblities to research and build upon what we can know. What I can do is use keywords to filter and simplify my search. What is deemed as useful can be articles with similar keywords or phrases like "**How do engineers help people**," what I found was this article [https://www.sacredheart.edu/news-room/news-listing/5-ways-engineers-are-helping-to-shape-our-future/](https://www.sacredheart.edu/news-room/news-listing/5-ways-engineers-are-helping-to-shape-our-future/) by Sacred Heart University to be a start.
 
 ### socializing
