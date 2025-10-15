@@ -1,8 +1,10 @@
 # Entry 1
 # Deciding on My Topic
-What I had decided on was Engineering for its creativity and critical thinking to solve current issues at hand or to help on a much larger problem at play. Why I wanted to choose this was becuase of my lack of creativity although I know how to think in a situation that critical thinking was endorsed by logic rather than ingenuity sparked from my own imagination. What I did to figure out and learn about this career was through tests and my computer science class of "SEP". A article that helped reach this conclusion was through Michigan Tech- [https://www.mtu.edu/engineering/about/engineers/](https://www.mtu.edu/engineering/about/engineers/) This introductory article is examples to what led me to work on this today.
+What I had decided on was Engineering for its creativity and critical thinking to solve current issues at hand or to help on a much larger problem at play. Why I wanted to choose this was becuase of my lack of creativity although I know how to think in a situation that critical thinking was endorsed by logic rather than ingenuity sparked from my own imagination. What I did to figure out and learn about this career was through tests and my computer science class of "SEP". A article that helped reach this conclusion was through Michigan Tech- [What Is an Engineer?](https://www.mtu.edu/engineering/about/engineers/) This introductory article is examples to what led me to work on this today. Another example would be from [11 Reasons Why Engineering Might be the Right Field for You](https://www.geneva.edu/blog/program-spotlight/11-reasons-youll-love-being-an-engineer)
+
 ### Engineering Design Process
 As the beginning to my learning process in becoming a engineer and defining worldy problems such as **Pollution**. My current take on the problem is to begin research through websites/articles or by word of mouth to learn and devise a steady plan to slow or stop what is now a threat "**Pollution**."
+
 ### Skills
 What I believe can help me as a first step would be my ability to **use of google and socializing**" 
 
