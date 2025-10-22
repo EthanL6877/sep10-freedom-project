@@ -6,9 +6,11 @@ Topic: **Mechanical Engineering**
 * Activities that involve the use of mechanical engineering is the testing and manufacturing of equipment/products to then improve upon for a higher probability that it will work to then use it to handle problems for example peopel with missing limbs to be given a chance to have a mechanical arm or prosthesis in replacement of that missing limb.
 
 ## Part A: existing technology
-* 1st google search was [https://interestingengineering.com/culture/12-educational-websites-that-every-mechanical-engineer-should-know](https://interestingengineering.com/culture/12-educational-websites-that-every-mechanical-engineer-should-know) 
-  * Detail
-  * [image text](image URL)
+* 1st google search was "Websites for mechanical engineering"
+* The first website I checked was  [https://interestingengineering.com/culture/12-educational-websites-that-every-mechanical-engineer-should-know](https://interestingengineering.com/culture/12-educational-websites-that-every-mechanical-engineer-should-know)
+  * 1st site I looked into was [https://www.edx.org/](https://www.edx.org/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EdX_newer_logo.svg/1200px-EdX_newer_logo.svg.png" alt="edx" width="200"/>
+
 
 ## Part B: possible future technology
 * Idea
