@@ -8,10 +8,23 @@ Topic: **Mechanical Engineering**
 ## Part A: existing technology
 * 1st google search was "Websites for mechanical engineering"
 * The first website I checked was  [https://interestingengineering.com/culture/12-educational-websites-that-every-mechanical-engineer-should-know](https://interestingengineering.com/culture/12-educational-websites-that-every-mechanical-engineer-should-know)
-  * 1st site I looked into was [https://www.edx.org/](https://www.edx.org/)
+  * 1st app I looked into was [EDX](https://www.edx.org/)
+  * The site shows a multitude of programs and courses that support the role of Mechanical enginner including computer science, leadership/communication, and analytics
+  * Explains as to how to apply for each course/program and what can come along with the acceptance of the course/program
+  * The layout of the app is easy to traverse as you scroll down the site it explains and shows what their best at while explaining their purpose
+  * Allows the user to create a free account
+  * Many free programs/courses for anyone while also having english, chinese, spanish, and even italian speakers
+  * Can be accesed on I.O.S 15 or later and for Chrome ver.100 or after
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EdX_newer_logo.svg/1200px-EdX_newer_logo.svg.png" alt="edx" width="200"/>
 
+* 2nd website I checked was [Instructables](https://www.instructables.com/)
+  * This site first shows insight on how to build or about the right tools or decor for what you need
+  * Shows multiple designs for festive based objects depending on the closest holiday
+  * A informational site for learning on how to build and for creative desgining
+  * Can be used only on basic search engines including but not all of: Google, Safari, and Bing
 
-## Part B: possible future technology
-* Idea
-  * Detail
+<img src="https://3dprint.com/wp-content/uploads/2014/11/logo-instructables-01.png" alt="edx" width="200"/>
+  
+## Part B: possible future technology 
+* Mechancical Engineering will be further be developed by both A.I and human creativity
+  * Since Mechanical engineering was the basis for most if not all moving technology we still lack the ability to produce designs that should work the best. That's where A.I comes in as it can help correct some if not all mistakes and to not rely on such experimental A.I that's where we humans come although.Although  A.I and humans share the same process of learning Humans have the ability to learn and think beyond simple commands, such as the term known as creativity. Creativity then leads us to creating a solid solution and having opposing opinions allow us to question and then build upon mistakes so having the best of both worlds the knowledge with the creativity of humans help to determine and define a problem for solving.
