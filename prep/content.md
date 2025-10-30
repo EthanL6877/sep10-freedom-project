@@ -24,7 +24,23 @@ Topic: **Mechanical Engineering**
   * Can be used only on basic search engines including but not all of: Google, Safari, and Bing
 
 <img src="https://3dprint.com/wp-content/uploads/2014/11/logo-instructables-01.png" alt="edx" width="200"/>
-  
+
+
+* Software/devices
+* A devicce I researched was the Cyberknife
+* 1st link I researched:  [https://cyberknife.com/cyberknife-how-it-works/](https://cyberknife.com/cyberknife-how-it-works/)
+  * Doesn't damage anhy tissue besides the where the targeted radiation goes to
+  * With motion synchronization the Cyberknife can easily track an accomodate for the human bodies movement to more easily track down a tumor or cancer.
+* 2nd link:[https://radonc.ucsf.edu/cyberknife/](https://radonc.ucsf.edu/cyberknife/)
+  * They explain the uses of the Cyberknife that being it can target specific areas on the body with radiation even harder to reach places like the spine.
+  * Has low risk of failiure
+  * Short amount of time for a procedure to be completed
+  * Doesn't require much preparation
+* 3rd link was:[https://ahs.atlantichealth.org/conditions-treatments/cancer-care/cancer-treatment-options/cyberknife-radiosurgery.html](https://ahs.atlantichealth.org/conditions-treatments/cancer-care/cancer-treatment-options/cyberknife-radiosurgery.html)
+  * The Cyberknife can be used under most insurances and financial help
+  * can be preformed on a outpatient basis meaning the patient isn't forced overnight to remain at a hospital for cyberknife procedures
+  * real time built in x-rays to easily check the body
+  * can reach a multitude of tumors and not just including these brain, spine, liver, pancreas
 ## Part B: possible future technology 
 * Mechancical Engineering will be further be developed by both A.I and human creativity
   * Since Mechanical engineering was the basis for most if not all moving technology we still lack the ability to produce designs that should work the best. That's where A.I comes in as it can help correct some if not all mistakes and to not rely on such experimental A.I that's where we humans come although.Although  A.I and humans share the same process of learning Humans have the ability to learn and think beyond simple commands, such as the term known as creativity. Creativity then leads us to creating a solid solution and having opposing opinions allow us to question and then build upon mistakes so having the best of both worlds the knowledge with the creativity of humans help to determine and define a problem for solving.
