@@ -7,7 +7,7 @@ Topic: **Mechanical Engineering**
 
 ## Part A: existing technology
 * 1st google search was "Websites for mechanical engineering"
-* The first website I checked was  [https://interestingengineering.com/culture/12-educational-websites-that-every-mechanical-engineer-should-know](https://interestingengineering.com/culture/12-educational-websites-that-every-mechanical-engineer-should-know)
+* The first website I checked was  [Eductaional websites for Engineering](https://interestingengineering.com/culture/12-educational-websites-that-every-mechanical-engineer-should-know)
   * 1st app I looked into was [EDX](https://www.edx.org/)
   * The site shows a multitude of programs and courses that support the role of Mechanical enginner including computer science, leadership/communication, and analytics
   * Explains as to how to apply for each course/program and what can come along with the acceptance of the course/program
