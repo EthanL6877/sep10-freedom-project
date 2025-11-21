@@ -48,5 +48,15 @@ Main source:   [Eductaional websites for Engineering](https://interestingenginee
     <img src="https://github.com/user-attachments/assets/ac6b6fa9-0b92-447c-bd82-33b84f58b799" alt="edx" width="500"/>
     
 ## Part B: possible future technology 
-* Mechancical Engineering will be further be developed by both A.I and human creativity
-  * Since Mechanical engineering was the basis for most if not all moving technology we still lack the ability to produce designs that should work the best. That's where A.I comes in as it can help correct some if not all mistakes and to not rely on such experimental A.I that's where we humans come although.Although  A.I and humans share the same process of learning Humans have the ability to learn and think beyond simple commands, such as the term known as creativity. Creativity then leads us to creating a solid solution and having opposing opinions allow us to question and then build upon mistakes so having the best of both worlds the knowledge with the creativity of humans help to determine and define a problem for solving.
+* COOKING
+  * Robot condiment spreader
+    * Very compact- the size of a rubik's cube and shape when turned off
+    * Has 2 arms one is a butter knife and the other is a shaker for salt or pepper
+    * Knows over a 100 different condiments and how to spread or apply them 
+    * Is voice activated 
+    * Solar charged and can be charged vie usb-c
+    * Must describe the order to which the condiments are placed
+    * Has AI to learn preferences
+    * Can only be used in front of condiments or in a restaurant
+    * Is able to talk back to reconfirm or recommend options
+  
