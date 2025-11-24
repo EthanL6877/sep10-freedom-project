@@ -50,6 +50,7 @@ Main source:   [Eductaional websites for Engineering](https://interestingenginee
 ## Part B: possible future technology 
 * COOKING
   * Robot condiment spreader
+    * <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Rubik%27s_Cube.jpg" alt="edx" width="400"/>
     * Very compact- the size of a rubik's cube and shape when turned off
     * Has 2 arms one is a butter knife and the other is a shaker for salt or pepper
     * Knows over a 100 different condiments and how to spread or apply them
@@ -59,5 +60,5 @@ Main source:   [Eductaional websites for Engineering](https://interestingenginee
     * Has AI to learn preferences
     * Can only be used in front of condiments or in a restaurant
     * Is able to talk back to reconfirm or recommend options
-
+    * ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrVeTkqUeAE7DIcOrwMcdEb9pQxGNsHKCQg&s)
  
