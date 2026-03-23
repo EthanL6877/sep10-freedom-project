@@ -21,6 +21,8 @@
 * How do I apply effects to my Jquery code, as in the duration and what effect takes higher priority?
 * How can I make things toggle only on click?
 
+### Next steps:
+* Find out how to apply effects on Jquery code and to figure out how to toggle code with a click or motion.
 3/23/2026
 
 <!-- 
