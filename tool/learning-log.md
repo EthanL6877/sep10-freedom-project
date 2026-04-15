@@ -1,5 +1,5 @@
 # Tool Learning Log
-
+3/17
 ### a-ha / challenges:
 * Found out how to apply css with Jquery from [Tutorialspoint](https://www.tutorialspoint.com/jquery/index.htm)
 ```bash
@@ -23,6 +23,24 @@
 
 ### Next steps:
 * Find out how to apply effects on Jquery code and to figure out how to toggle code with a click or motion.
+_______________________________________________________________________________________________________________________________________
+3/15
+Day By day plan for learning tool final stretch:
+days-->Wednesday, Thursday, Friday
+*  day 1, Begin learning how to have a function have multiple variables and figure out how to make Jquery responsive through videos or websites
+   * spend most of the time learning 
+*  day 2, start using more complex code of Jquery that being how to include mainly CSS and animation while writing down any new ideas that could help with the freedom project site
+   * Mainly learning but also note taking  
+*  day 3, start actually writing down ideas and plans for FP site while breaking down what code will be used
+   *  focus more on note taking than actual coding 
+
+
+
+
+
+
+
+
 3/23/2026
 
 <!-- 
