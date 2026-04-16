@@ -34,7 +34,17 @@ days-->Wednesday, Thursday, Friday
 *  day 3, start actually writing down ideas and plans for FP site while breaking down what code will be used
    *  focus more on note taking than actual coding 
 
+### a-ha / challenges:
+* 
+* 
+### websites:
+* 
+### Facts:
+* The order of functions for a single code block is from top to bottom
+* Divs make a difference in how the animate functions works
+### questions:
 
+### Next steps:
 
 
 
