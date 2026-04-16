@@ -35,13 +35,33 @@ days-->Wednesday, Thursday, Friday
    *  focus more on note taking than actual coding 
 
 ### a-ha / challenges:
-* 
+* When looking through the Jquery code page I had a issue where the fade in for the shown code block below being delayed for a unknown amoount of time. I gave a look at the Jquery webpage to make sure if there was any way around this with minimal change and I found that for a single action there could be more than one function variable applied, with the delay I can change when the fadein does appear.
+```bash
+$(document).ready(function(){
+  $("p").click(function(){ // when the p is clicked...
+
+    // do this stuff
+    $(this).toggle();
+    $(this).delay( 200 ).fadeIn( 400 ); <--
+  });
+```
 * 
 ### websites:
 * 
 ### Facts:
 * The order of functions for a single code block is from top to bottom
+``` bash
+$(document).ready(function(){
+  $("p").click(function(){ // when the p is clicked...
+
+    // do this stuff
+    $(this).toggle();
+    $(this).delay( 200 ).fadeIn( 400 );
+  });
+```
 * Divs make a difference in how the animate functions works
+* The ```.even``` function makes every even line of text or object colored
+ * The first selected item is colored because it is considered "0"
 ### questions:
 
 ### Next steps:
