@@ -45,9 +45,8 @@ $(document).ready(function(){
     $(this).delay( 200 ).fadeIn( 400 ); <--
   });
 ```
-* 
 ### websites:
-* 
+* [Jquery-api](https://api.jquery.com/)
 ### Facts:
 * The order of functions for a single code block is from top to bottom
 ``` bash
@@ -62,10 +61,10 @@ $(document).ready(function(){
 * Divs make a difference in how the animate functions works
 * The ```.even``` function makes every even line of text or object colored
  * The first selected item is colored because it is considered "0"
-### questions:
-
+ * don't use ```Control Z ``` in terminal unless there is a issue with ```http-server``` command
 ### Next steps:
-
+* Make a website based off Jquery
+* Make use of Java-script in accordance to Jquery since Jquery is the more baby ver of Java-Script
 
 
 
