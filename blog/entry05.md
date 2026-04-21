@@ -1,6 +1,6 @@
 # Entry 5
 
-### Content(JQuery)
+### Content
 
 ### Googling
 
