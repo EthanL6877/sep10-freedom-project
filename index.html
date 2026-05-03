@@ -6,7 +6,10 @@
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" type="text/css" />
-<style>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap" rel="stylesheet">
+        <style>
 .carousel-item img {
   height: 400px;
   width: 100%;
@@ -23,8 +26,8 @@
 }
 
 .image-button {
-  padding: 15px;              /* this becomes the “frame” */
-  background-color: #0d6efd;  /* Bootstrap blue or any color */
+  padding: 15px;
+  background-color: #333344;
   border: none;
   border-radius: 12px;
   display: inline-block;
@@ -47,20 +50,21 @@
 <script>
 
 $(document).ready(function() {
-  $("#welcome-msg").fadeIn(1000).delay(2000).fadeOut(1000);
+  $("#welcome-msg").fadeIn(1000).delay(3000).fadeOut(1000);
 });
 
 
 $(document).ready(function() {
-  $(".fade-text").fadeIn();
+  $(".fade-text").fadeIn(1500);
 });
 
  $(document).ready(function(){
  $("body").css("background-color", "yellow");
+   $(".text").css("font-family", "Lexend");
 });
 $(document).ready(function() {
   $(".trigger-btn").click(function() {
-    $(this).siblings(".target-image").toggle();
+    $(this).siblings(".target-image").stop(true, true).slideToggle(300);
   });
 });
 
@@ -116,13 +120,15 @@ $(document).ready(function() {
 </ul>
 
 <div class="image-row">
-    <div class="trigger my-4">
-    <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
-    <img class="target-image" src="https://github.com/user-attachments/assets/ac6b6fa9-0b92-447c-bd82-33b84f58b799" style="display:none;" style="display:none;" width="500">
-    </div>
+  <div class="trigger my-4 image-button" >
+  <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
+  <img class="target-image" src="https://github.com/user-attachments/assets/ac6b6fa9-0b92-447c-bd82-33b84f58b799" style="display:none;" width="400">
+  </div>
 </div>
 <h3  class="content-block"> Future Innovations</h3>
 <h5>The Robot Condiment Spreader</h5>
+
+
 <ul class="fade-text">
       <li>Very compact- the size of a rubik's cube and shape when turned off</li>
       <li>Has 2 arms one is a butter knife and the other is a shaker for salt or pepper</li>
@@ -134,16 +140,24 @@ $(document).ready(function() {
       <li>Can only be used in front of condiments or in a restaurant</li>
       <li>Is able to talk back to reconfirm or recommend options</li>
 </ul>
-<div class="image-button">
-  <div class="trigger my-4">
-  <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
-  <img class="target-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrVeTkqUeAE7DIcOrwMcdEb9pQxGNsHKCQg&s" style="display:none;" width="400">
+<div class="container">
+   <div class="row">
+
+    <div class="col-12 col-md-6 col-lg-4">
+
+      <div class="trigger my-4 image-button" >
+      <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
+      <img class="target-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrVeTkqUeAE7DIcOrwMcdEb9pQxGNsHKCQg&s" style="display:none;" width="400">
 </div>
 </div>
+
 <br>
-<div class="trigger my-4">
+    <div class="col-12 col-md-6 col-lg-4">
+<div class="trigger my-4 image-button" >
   <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
   <img class="target-image" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Rubik%27s_Cube.jpg" style="display:none;" width="400">
+  </div>
+  </div>
   </div>
 </div>
 </div>
