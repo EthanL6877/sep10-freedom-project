@@ -18,22 +18,22 @@
 
 #### MVP
 * 4/27 add navbar
-* 4/2 Add container 2 (info) bootstrap grid skeleton
-* 4/3 Add container 3 (gallery) and media queries
-* 4/4 Add footer & testimonials
-* 4/5 Change colors and add Bootstrap icons
-* 4/6 Make gallery a carousel
-* 4/6 Make cards for info
-* 4/7 Finish adding info
-* 4/8 Finish adding icons
-* 4/13 Fix any bugs or issues
-* 4/13 Submit
+* 4/28 Add container 2 (info) bootstrap grid skeleton
+* 4/29 Add container 3 (gallery) and media queries
+* 5/1 Add togglable images
+* 5/2 Make the Navbar specifically for my website
+* # Make gallery a carousel
+* # Make cards for info
+* # Finish adding info
+* # Finish adding icons
+* # Fix any bugs or issues
+* # Submit
 
 #### Beyond MVP
 
-Bootstrap components used go beyond: card ,offcanvas, carousel
+Bootstrap components used go beyond: card, carousel
 * cards for Information
-* navbar with dropdown
+* navbar with a link that connects to the partner and the central website
 * carousel with text and images
 
 
