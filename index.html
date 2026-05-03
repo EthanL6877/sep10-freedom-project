@@ -1,62 +1,66 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" type="text/css" />
 <style>
-.yo {
-color: blue;
+.carousel-item img {
+  height: 400px;
+  width: 100%;
+}
+.container {
+  padding: 10px;
 }
 
-.parent {
-background-color: blue;
-margin: 10px;
+* {
+  transition: all 0.s ease;
+}
+.fade-text {
+  display: none;
 }
 
+.image-button {
+  padding: 15px;              /* this becomes the “frame” */
+  background-color: #0d6efd;  /* Bootstrap blue or any color */
+  border: none;
+  border-radius: 12px;
+  display: inline-block;
+  cursor: pointer;
+}
 
-
+.image-button img {
+  display: block;
+  width: 400px;
+  height: auto;
+  border-radius: 8px;
+}
 </style>
 
 
 <html>
 <head>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="https://code.jquery.com/jquery-4.0.0.min.js" integrity="sha256-OaVG6prZf4v69dPg6PhVattBXkcOWQB62pdZ3ORyrao=" crossorigin="anonymous"></script>
 <script>
 
-
-window.onload = function() {
-
-    alert( "welcome to Ethan Li's freedom project" );
-
-};
-
-$(document).ready(function(){
-  $("#").click(function(){ // when the p is clicked...
-
-    // do this stuff
-    $(this).toggle();
-    $(this).delay( 200 ).fadeIn( 400 );
-    $( "p" ).even().css( "background-color", "red" );
-  });
+$(document).ready(function() {
+  $("#welcome-msg").fadeIn(1000).delay(2000).fadeOut(1000);
 });
-$(document).ready(function(){
-$(".#").animate({height: '200px'}, 1000, function() {
-    $(this).animate({width: '200px'}, 1000);
-     $(this).animate({width: '1350px'}, 4000);
 
+
+$(document).ready(function() {
+  $(".fade-text").fadeIn();
 });
-});
+
  $(document).ready(function(){
  $("body").css("background-color", "yellow");
 });
 $(document).ready(function() {
-  $(".trigger").click(function() {
-    $("#target-image").toggle();
+  $(".trigger-btn").click(function() {
+    $(this).siblings(".target-image").toggle();
   });
 });
 
@@ -64,17 +68,20 @@ $(document).ready(function() {
 </head>
 <body>
 <div>
-
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <div class="container">
+    <a class="navbar-brand" href="#">
+         <img src="Images/mechanic.png" alt="Logo" width="40" height="35" class="d-inline-block align-text-top">
+         Mechanical Engineering
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
       <span class="navbar-toggler-icon"></span>
     </button>
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" href="#">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Link</a>
@@ -83,57 +90,76 @@ $(document).ready(function() {
     </div>
   </div>
 </nav>
-<h3 class="yo">Context</h3>
+
+<div id="welcome-msg" class="alert alert-primary text-center" style="display:none;">
+  Welcome to Ethan Li's freedom project
 </div>
-<p>In this unit, I learned about several foundational tools and concepts in coding, including HTML, CSS, Bootstrap, GitHub, and AVD. HTML was my introduction to coding, and while it is considered a basic starting point, I found it challenging because even small mistakes could cause big issues that were difficult to debug. CSS was a addition to HTML as it allowed me to style and decorate web pages, giving me creative freedom through colors, layouts, and even animations. I learned how to use GitHub to Git my work together as tools for collaboration and version control as it was how the basis to which coding can be used. To better explain what it is, GitHub acts as a central hub where repositories store code, images, and other files, while Git allows changes to be made locally and then pushed to the remote repository. I learned how to add and commit changes, as well as how to handle merge conflicts when multiple changes happen at once.  Bootstrap made designing easier by providing pre-made components and a grid system using containers, rows, and columns, which helped me create responsive websites that adjust to different screen sizes like mobile devices, tablets, and computers without starting from scratch.
+<div class="container mt-4">
 
-Bootstrap made designing easier by providing pre-made components and a grid system using containers, rows, and columns, which helped me create responsive websites that adjust to different screen sizes like mobile devices, tablets, and computers without starting from scratch. Advanced Visual Design (AVD), which focused on how elements are positioned and displayed on a webpage. Altogether which worked in tandem to Bootstrap to make a website more appealing. these lessons helped me understand not only how to build websites, but also how to manage, style, and collaborate on coding projects more effectively.
-</p>
-<div class="trigger">
-<button class="btn btn-primary mb-3" id="trigger-text">Click here for example</p>
-<img id="target-image" src="Images/Jquery.png" style="display:none;" alt="Revealed Image">
-</div>
-<h5>LOYO-Learn On Your Own</h5>
-<p>I would like to say that </p>
-<button class="btn btn-primary mb-3" data-bs-toggle="collapse" data-bs-target=".toggleContent">
-  Click here for example
-</button>
+  <h3  class="content-block">Content</h3>
 
-<div class="collapse toggleContent">
-  <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+  <ul>
+  <li>Mechanical enginnering is the leading focus in modern technology as they involve themselves with the research, design, construction and testing of mechanical devices and sensors, including various tools, engines and machines their proficiency in the use of both technology and math to determine a solution for a problem relies not on knowledge but the creativity and will to ultimately overcome a issue either long lasting or recent.</li>
+  <li>Activities that involve the use of mechanical engineering is the testing and manufacturing of equipment/products to then improve upon for a higher probability that it will work to then use it to handle problems for example peopel with missing limbs to be given a chance to have a mechanical arm or prosthesis in replacement of that missing limb.</li>
+</ul>
 
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <div class="bg-primary text-white p-5">Slide 1</div>
-      </div>
-      <div class="carousel-item">
-        <div class="bg-success text-white p-5">Slide 2</div>
-      </div>
-      <div class="carousel-item">
-        <div class="bg-danger text-white p-5">Slide 3</div>
-      </div>
+  <div class="container">
+  <h3> Technology before</h3>
+  <h5>Cyber-Knife</h5>
+  <h6>findings:They explain the uses of the Cyberknife that being it can target specific areas on the body with radiation even harder to reach places like the spine.</h6>
+  <ul class="fade-text">
+    <li>Has low risk of failure</li>
+    <li> Short amount of time for a procedure to be completed</li>
+    <li>Doesn't require much preparation</li>
+    <li>The Cyberknife can be used under most insurances and financial help</li>
+    <li>With motion synchronization the Cyberknife can easily track and accommodate for the human body's movement to more easily track down a tumor or cancer.</li>
+</ul>
+
+<div class="image-row">
+    <div class="trigger my-4">
+    <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
+    <img class="target-image" src="https://github.com/user-attachments/assets/ac6b6fa9-0b92-447c-bd82-33b84f58b799" style="display:none;" style="display:none;" width="500">
     </div>
-
-    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon"></span>
-    </button>
-
-    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
-      <span class="carousel-control-next-icon"></span>
-    </button>
-
+</div>
+<h3  class="content-block"> Future Innovations</h3>
+<h5>The Robot Condiment Spreader</h5>
+<ul class="fade-text">
+      <li>Very compact- the size of a rubik's cube and shape when turned off</li>
+      <li>Has 2 arms one is a butter knife and the other is a shaker for salt or pepper</li>
+      <li>Knows over a 100 different condiments and how to spread or apply them</li>
+      <li>Is voice activated </li>
+      <li>Solar charged and can be charged vie usb-c</li>
+      <li>Must describe the order to which the condiments are placed</li>
+      <li>Has AI to learn preferences</li>
+      <li>Can only be used in front of condiments or in a restaurant</li>
+      <li>Is able to talk back to reconfirm or recommend options</li>
+</ul>
+<div class="image-button">
+  <div class="trigger my-4">
+  <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
+  <img class="target-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrVeTkqUeAE7DIcOrwMcdEb9pQxGNsHKCQg&s" style="display:none;" width="400">
+</div>
+</div>
+<br>
+<div class="trigger my-4">
+  <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
+  <img class="target-image" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Rubik%27s_Cube.jpg" style="display:none;" width="400">
   </div>
 </div>
-  </a>
+</div>
+
+
+</a>
+<br>
+<br>
+<br>
 </div>
 </body>
 </html>
 
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- <script src="script.js"></script> -->
         <script>
-            // JS
 
 
         </script>
