@@ -6,10 +6,9 @@
 
 ## Colors
 * #c3bbc4
-* #333344
-* #6a4536
-* #8d6c46
 * #3d6bcc
+* #8d6c46
+
 
 ## Fonts
 * [Lexend](https://fonts.google.com/specimen/Lexend?categoryFilters=Sans+Serif:%2FSans%2FGeometric&preview.script=Latn)
