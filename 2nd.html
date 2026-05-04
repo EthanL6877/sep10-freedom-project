@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap" rel="stylesheet">
+        <style>
+.container {
+  padding: 10px;
+}
+
+* {
+  transition: all 0.2s ease;
+}
+.fade-text {
+  display: none;
+}
+
+.image-button {
+  padding: 15px;
+  background-color: #3d6bcc;
+  border: none;
+  border-radius: 12px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.image-button img {
+  display: block;
+  width: 400px;
+  height: auto;
+  border-radius: 8px;
+}
+h3 {
+color: #8d6c46;
+}
+.boxes {
+  text-align: center;
+   padding: 15px;
+    border: 2px solid black;
+     border-radius: 12px;
+}
+
+</style>
+
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://code.jquery.com/jquery-4.0.0.min.js" integrity="sha256-OaVG6prZf4v69dPg6PhVattBXkcOWQB62pdZ3ORyrao=" crossorigin="anonymous"></script>
+<script>
+
+
+$(document).ready(function() {
+  $(".fade-text").fadeIn(1500);
+});
+
+ $(document).ready(function(){
+ $("body").css("background-color", "#c3bbc4");
+   $(".text").css("font-family", "Lexend");
+});
+$(document).ready(function() {
+  $(".trigger-btn").click(function() {
+    $(this).siblings(".target-image").stop(true, true).slideToggle(300);
+  });
+});
+
+</script>
+</head>
+<body>
+<div>
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container">
+    <a class="navbar-brand" href="#">
+         <img src="Images/mechanic.png" alt="Logo" width="40" height="35" class="d-inline-block align-text-top">
+         Engineering
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container mt-4 ">
+
+<h5> Some projects incuded are</h5>
+<div class="columns medium-6 large-3 boxes">
+                <p>CyberKnife MRI machines CT scanners</p>
+            </div>
+<div class="columns medium-6 large-3 boxes">
+                <p>Wind turbines Hydroelectric dams Steam turbines</p>
+            </div>
+            <div class="columns medium-6 large-3 boxes">
+                <p>CNC machines 3D printers Conveyor belt systems Hydraulic presses</p>
+            </div>
+            <div class="columns medium-6 large-3 boxes">
+                <p>Rocket propulsion systems Mars rovers Space station mechanical systems</p>
+            </div>
+
+<div class="image-row">
+  <div class="trigger my-4 image-button" >
+  <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
+  <img class="target-image" src="https://github.com/user-attachments/assets/ac6b6fa9-0b92-447c-bd82-33b84f58b799" style="display:none;" >
+  </div>
+</div>
+<h3  class="content-block"></h3>
+<h5></h5>
+
+<div class="container">
+   <div class="row">
+
+    <!--<div class="col-12 col-md-6 col-lg-4">
+
+      <div class="trigger my-4 image-button" >
+      <button class="btn btn-primary mb-3 trigger-btn">Click here</button>
+      <img class="target-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrVeTkqUeAE7DIcOrwMcdEb9pQxGNsHKCQg&s" style="display:none;" >
+</div>
+</div>-->
+<!--<button class="btn btn-primary mb-3" data-bs-toggle="collapse" data-bs-target=".toggleContent">
+  Click here for example
+</button>
+
+<div class="collapse toggleContent">
+  <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="bg-primary text-white p-5">Slide 1</div>
+      </div>
+      <div class="carousel-item">
+        <div class="bg-success text-white p-5">Slide 2</div>
+      </div>
+      <div class="carousel-item">
+        <div class="bg-danger text-white p-5">Slide 3</div>
+      </div>
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon"></span>
+    </button>
+
+    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon"></span>
+    </button>
+
+  </div>-->
+<br>
+
+  </div>
+</div>
+</div>
+
+
+</a>
+<br>
+<br>
+<br>
+</div>
+</body>
+</html>
+
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+        <script>
+
+
+        </script>
+    </body>
+</html>
