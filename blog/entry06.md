@@ -1,8 +1,18 @@
 # Entry 6
-##### X/X/XX
 
-Text
+### Content
+When making the MVP for Freedom Project I took the liberty of using the code I tinkered with Jquery so later I can use it as a starter code.
 
-[Previous](entry05.md) | [Next](entry07.md)
+### Engineering Design Process
+
+### Skills
+
+### Googling
+
+
+### socializing
+
+
+[Next](entry02.md)
 
 [Home](../README.md)
