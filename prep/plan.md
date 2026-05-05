@@ -48,7 +48,7 @@ must refresh page to see full effect!!!!!!!!!!!!!!!!!!!!!
 | Annabella | I like how when you refresh the page the color of the site changes and there is a pop up that says it's your project.| Make the text a different color maybe to make it easier to read |
 | Helen | I like your "click here" because its cool | consider changing the color of "click here" have you considered making the link linking/linkable|
 | Sham |  I love how the image shows up once you click the button. | There is a random useless "Link" on the navbar. There isnt much color. |
-|  |  |  |
+| Jia | I like the innovation of the cyber Knife, it is unique as it has motion synchronization that stands out, being able to track down tumors and adjust to body movements. Your navbar is clean and versatile, it is very appleaing along with the logo on the left. | Something I would change about your website is to pick another color scheme, currently it doesn't stand out as much due to your backgorund color and font text. |
 |  |  |  |
 |  |  |  |
 
