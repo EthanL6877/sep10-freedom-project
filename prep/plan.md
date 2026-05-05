@@ -38,15 +38,14 @@ Bootstrap components used go beyond: card, carousel
 
 
 
+must refresh page to see full effect!!!!!!!!!!!!!!!!!!!!!
 
-
-
-<!-- DO NOT USE THIS YET
 
 #### Peer Feedback 
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+| --------- | --------- | --------- |
+| Annabella | I like how when you refresh the page the color of the site changes and there is a pop up that says it's your project.| Make the text a different color maybe to make it easier to read |
 |  |  |  |
 |  |  |  |
 |  |  |  |
