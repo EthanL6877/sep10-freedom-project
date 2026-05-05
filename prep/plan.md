@@ -46,7 +46,7 @@ must refresh page to see full effect!!!!!!!!!!!!!!!!!!!!!
 | Name | Glows | Grows |
 | --------- | --------- | --------- |
 | Annabella | I like how when you refresh the page the color of the site changes and there is a pop up that says it's your project.| Make the text a different color maybe to make it easier to read |
-| Helen | I like your "click here" | consider changing the color of "click here" |
+| Helen | I like your "click here" because its cool | consider changing the color of "click here" have you considered making the link linking/linkable|
 |  |  |  |
 |  |  |  |
 |  |  |  |
