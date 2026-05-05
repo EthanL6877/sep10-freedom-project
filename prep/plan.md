@@ -47,7 +47,7 @@ must refresh page to see full effect!!!!!!!!!!!!!!!!!!!!!
 | --------- | --------- | --------- |
 | Annabella | I like how when you refresh the page the color of the site changes and there is a pop up that says it's your project.| Make the text a different color maybe to make it easier to read |
 | Helen | I like your "click here" because its cool | consider changing the color of "click here" have you considered making the link linking/linkable|
-|  |  |  |
+| Sham |  I love how to images show once you click the button. | There is a random useless "Link" on the navbar. There isnt much color. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
