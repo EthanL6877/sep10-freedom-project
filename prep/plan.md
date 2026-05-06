@@ -36,7 +36,7 @@ Bootstrap components used go beyond: card, carousel
 * carousel with text and images
 
 
-
+[link to site](https://ethanl6877.github.io/sep10-freedom-project/index.html)
 
 must refresh page to see full effect!!!!!!!!!!!!!!!!!!!!!
 
