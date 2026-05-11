@@ -5,7 +5,7 @@
 * [Desktop](https://drive.google.com/file/d/1sAaN7FUXomMG_q4noAtg6GmqkWpMDfxR/view)
 
 ## Colors
-* #c3bbc4
+* #b942f5
 * #3d6bcc
 * #8d6c46
 
