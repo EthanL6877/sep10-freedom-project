@@ -7,7 +7,7 @@
 ## Colors
 * #b942f5
 * #3d6bcc
-* #8d6c46
+* #f56c42
 
 
 ## Fonts
