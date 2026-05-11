@@ -11,7 +11,7 @@ I'm currently on the creation step of the **Freedom Project,** having just finis
 A majority of my JQuery code from the **API**, which in general solved most of my problems, especially with the notifications
 
 ### socializing
-My partner and I decided on how to structure and organize our sites to the best of our abilities. We took the time to discuss how we should connect our projects which was by having a central site which split into our individual sites.
+My partner and I decided on how to structure and organize our sites to the best of our abilities. We took the time to discuss how we should connect our projects which was by having a [central sites](https://ethanl6877.github.io/sep10-freedom-project/2nd.html) which split into our individual sites.
 
 [Next](entry02.md)
 
