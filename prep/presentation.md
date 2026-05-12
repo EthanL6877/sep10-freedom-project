@@ -1,16 +1,21 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Make a joke about how engineers are with mechanics
+
 
 ## Product
-* 
+* make a short game following that to get their ideas flowing
+* transition into the demo
 
 ## Process
-* 
+* MVP:build the demo->make joke based off demo
+* go beyond->make the game follow certain rules and ideas-> ask certain questions throughout the game to get a certain answer related to robotics
 
 ## Conclusion
-* 
+* round of applause
+* concluding speech
+* give access to the demo by QR code
 
 <!-- EXAMPLE
 
